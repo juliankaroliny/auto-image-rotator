@@ -1,0 +1,5 @@
+photos/
+.git/
+.venv/
+__pycache__/
+*.onnx

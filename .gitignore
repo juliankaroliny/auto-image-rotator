@@ -1,0 +1,11 @@
+# Your images stay local
+photos/*
+!photos/.gitkeep
+
+# Model files when running without Docker
+*.onnx
+*.pth
+*.zip
+
+__pycache__/
+.venv/
